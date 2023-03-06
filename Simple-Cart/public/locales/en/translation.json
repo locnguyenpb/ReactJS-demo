@@ -1,0 +1,13 @@
+{
+  "Header": {
+    "AutumnCollection": "AUTUMN COLLECTION",
+    "Home": "Home",
+    "About": "About",
+    "Contact": "Contact",
+    "Welcome": "Welcome",
+    "Logout": "Logout",
+    "Cart": "Cart",
+    "Login": "Login",
+    "Register": "Register"
+  }
+}

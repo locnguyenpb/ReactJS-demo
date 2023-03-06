@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.signup-form,
+.signin-form {
+  width: 400px;
+  margin: 0 auto;
+}
+
+input.form-control, input.form-control:focus {
+  background: #f0f0ff;
+}
+
+.error {
+  color: red;
+  font-size: 14px;
+}
+
+.forgot-password {
+  font-size: 12px;
+  color: #0969da;
+  cursor: pointer;
+}
+
+.without-account {
+  font-size: 14px;
+  color: #828282;
+  margin-top: 10px;
+  text-align: right;
+}
+
+.sign-up {
+  font-size: 15px;
+  color: #0969da;
+  cursor: pointer;
+}
